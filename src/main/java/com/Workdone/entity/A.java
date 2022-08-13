@@ -7,6 +7,7 @@ public static void main(String[] args) {
 	System.out.println("Misra");
 	System.out.println("Bishnupur");
 	System.out.println("Bankura");
+	System.out.println("West Bengal");
 }
 
 }
